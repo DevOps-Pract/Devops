@@ -5,3 +5,6 @@
 5 visual studio 
 
 photos will be take different ways
+
+
+finish all pull and fetch
