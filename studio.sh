@@ -4,3 +4,4 @@
 4 github
 5 visual studio 
 
+photos will be take different ways
